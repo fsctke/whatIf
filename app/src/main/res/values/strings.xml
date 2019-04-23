@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">junkWhatIf</string>
+    <string name="openingText">This is the game start</string>
+    <string name="button1">Option1</string>
+    <string name="button2">Option2</string>
+    <string name="button3">Option3</string>
+    <string name="storyOptionOne">this is story option one</string>
+    <string name="storyOptionTwo">this is story option two</string>
+    <string name="storyOptionThree">this is story option three</string>
+</resources>
